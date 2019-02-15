@@ -1,0 +1,172 @@
+SOURCE,TARGET,LINE,SOURCEID,TARGETID,SOURCELAT,SOURCELON
+Edinburgh,North Queensferry,A,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q1009725,55.95,-3.198888889
+North Queensferry,Inverkeithing,A,https://www.wikidata.org/wiki/Q1009725,https://www.wikidata.org/wiki/Q1010422,56.0111,-3.39444
+Inverkeithing,Kinross,A,https://www.wikidata.org/wiki/Q1010422,https://www.wikidata.org/wiki/Q781885,56.03333333,-3.383333333
+Kinross,Perth,A,https://www.wikidata.org/wiki/Q781885,https://www.wikidata.org/wiki/Q203000,56.2,-3.42
+Perth,Dundee,A,https://www.wikidata.org/wiki/Q203000,https://www.wikidata.org/wiki/Q123709,56.39527778,-3.431666667
+Dundee,Arbroath,A,https://www.wikidata.org/wiki/Q123709,https://www.wikidata.org/wiki/Q630668,56.464,-2.97
+Arbroath,Montrose,A,https://www.wikidata.org/wiki/Q630668,https://www.wikidata.org/wiki/Q420303,56.56138611,-2.585705556
+Montrose,Stonehaven,A,https://www.wikidata.org/wiki/Q420303,https://www.wikidata.org/wiki/Q1002177,56.70805556,-2.605833333
+Stonehaven,Aberdeen,A,https://www.wikidata.org/wiki/Q1002177,https://www.wikidata.org/wiki/Q36405,56.96,-2.21
+Aberdeen,Aberdeen,A,https://www.wikidata.org/wiki/Q36405,NA,57.15,-2.1
+Edinburgh,Linlithgow,B,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q1016911,55.95,-3.198888889
+Linlithgow,Bo'ness,B,https://www.wikidata.org/wiki/Q1016911,https://www.wikidata.org/wiki/Q896424,55.97527778,-3.610555556
+Bo'ness,Falkirk,B,https://www.wikidata.org/wiki/Q896424,https://www.wikidata.org/wiki/Q216802,56.01681111,-3.608911111
+Falkirk,Kilsyth,B,https://www.wikidata.org/wiki/Q216802,https://www.wikidata.org/wiki/Q1010328,56.001,-3.784
+Kilsyth,Kirkintilloch,B,https://www.wikidata.org/wiki/Q1010328,https://www.wikidata.org/wiki/Q2422689,55.98,-4.06
+Kirkintilloch,Glasgow,B,https://www.wikidata.org/wiki/Q2422689,https://www.wikidata.org/wiki/Q4093,55.93583333,-4.154722222
+Glasgow,Glasgow,B,https://www.wikidata.org/wiki/Q4093,NA,55.87,-4.27
+Glasgow,Paisley,C,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q211870,55.87,-4.27
+Paisley,Renfrew,C,https://www.wikidata.org/wiki/Q211870,https://www.wikidata.org/wiki/Q615693,55.85,-4.433333333
+Renfrew,Port Glasgow,C,https://www.wikidata.org/wiki/Q615693,https://www.wikidata.org/wiki/Q1786145,55.86666667,-4.366666667
+Port Glasgow,Greenock,C,https://www.wikidata.org/wiki/Q1786145,https://www.wikidata.org/wiki/Q217831,55.94,-4.69
+Greenock,Greenock,C,https://www.wikidata.org/wiki/Q217831,NA,55.95,-4.766666667
+Glasgow,Dumbarton,D,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q34779,55.87,-4.27
+Dumbarton,Inveraray Castle,D,https://www.wikidata.org/wiki/Q34779,https://www.wikidata.org/wiki/Q1671720,55.94861111,-4.547222222
+Inveraray Castle,Inveraray Castle,D,https://www.wikidata.org/wiki/Q1671720,NA,56.2375,-5.073333333
+Glasgow,Kilmarnock,E,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q576562,55.87,-4.27
+Kilmarnock,Stewarton,E,https://www.wikidata.org/wiki/Q576562,https://www.wikidata.org/wiki/Q7616000,55.61166667,-4.494444444
+Stewarton,Irvine,E,https://www.wikidata.org/wiki/Q7616000,https://www.wikidata.org/wiki/Q1774629,55.415,-5.64222
+Kilmarnock,Ayr,E,https://www.wikidata.org/wiki/Q576562,https://www.wikidata.org/wiki/Q654216,55.61166667,-4.494444444
+Ayr,Maybole,E,https://www.wikidata.org/wiki/Q654216,https://www.wikidata.org/wiki/Q603616,55.46388889,-4.627777778
+Maybole,Girvan,E,https://www.wikidata.org/wiki/Q603616,https://www.wikidata.org/wiki/Q1011787,55.3545,-4.68149
+Girvan,Ballantrae,E,https://www.wikidata.org/wiki/Q1011787,https://www.wikidata.org/wiki/Q3997904,55.2382,-4.85614
+Ballantrae,Ballantrae,E,https://www.wikidata.org/wiki/Q3997904,NA,55.1003,-5.00472
+Glasgow,Hamilton,F,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q4131,55.87,-4.27
+Hamilton,Douglas,F,https://www.wikidata.org/wiki/Q4131,https://www.wikidata.org/wiki/Q5301155,55.78,-4.068055556
+Douglas,Douglas,F,https://www.wikidata.org/wiki/Q5301155,NA,55.55,-3.85
+Edinburgh,Dunfermline,G,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q211950,55.95,-3.198888889
+Dunfermline,Culross,G,https://www.wikidata.org/wiki/Q211950,https://www.wikidata.org/wiki/Q2424554,56.07138889,-3.461666667
+Culross,Kincardine,G,https://www.wikidata.org/wiki/Q2424554,https://www.wikidata.org/wiki/Q1011221,56.0554,-3.6293
+Kincardine,Alloa,G,https://www.wikidata.org/wiki/Q1011221,https://www.wikidata.org/wiki/Q1009331,56.069,-3.719
+Alloa,Stirling,G,https://www.wikidata.org/wiki/Q1009331,https://www.wikidata.org/wiki/Q182923,56.11666667,-3.8
+Stirling,Stirling,G,https://www.wikidata.org/wiki/Q182923,NA,56.11944444,-3.935833333
+Edinburgh,Dunfermline,H,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q211950,55.95,-3.198888889
+Dunfermline,Aberdour,H,https://www.wikidata.org/wiki/Q211950,https://www.wikidata.org/wiki/Q2014221,56.07138889,-3.461666667
+Aberdour,Burntisland,H,https://www.wikidata.org/wiki/Q2014221,https://www.wikidata.org/wiki/Q1011521,56.0528,-3.3021
+Burntisland,Kinghorn,H,https://www.wikidata.org/wiki/Q1011521,https://www.wikidata.org/wiki/Q1010266,56.05,-3.233333333
+Kinghorn,Kirkcaldy,H,https://www.wikidata.org/wiki/Q1010266,https://www.wikidata.org/wiki/Q691685,56.07,-3.17
+Kirkcaldy,Dysart,H,https://www.wikidata.org/wiki/Q691685,https://www.wikidata.org/wiki/Q2631587,56.11073056,-3.167369444
+Dysart,Leven,H,https://www.wikidata.org/wiki/Q2631587,https://www.wikidata.org/wiki/Q672948,56.13,-3.11
+Leven,Colinsburgh,H,https://www.wikidata.org/wiki/Q672948,https://www.wikidata.org/wiki/Q5145730,56.195,-2.99417
+Colinsburgh,Pittenweem,H,https://www.wikidata.org/wiki/Q5145730,https://www.wikidata.org/wiki/Q1011685,56.2206,-2.8463
+Pittenweem,Anstruther,H,https://www.wikidata.org/wiki/Q1011685,https://www.wikidata.org/wiki/Q570401,56.21305556,-2.728611111
+Anstruther,Crail,H,https://www.wikidata.org/wiki/Q570401,https://www.wikidata.org/wiki/Q1010416,56.2234,-2.70274
+Crail,St Andrews,H,https://www.wikidata.org/wiki/Q1010416,https://www.wikidata.org/wiki/Q207736,56.2608,-2.6263
+St Andrews,St Andrews,H,https://www.wikidata.org/wiki/Q207736,NA,56.33888889,-2.798888889
+Dunfermline,Kinross,I,https://www.wikidata.org/wiki/Q211950,https://www.wikidata.org/wiki/Q781885,56.07138889,-3.461666667
+Kinross,Falkland,I,https://www.wikidata.org/wiki/Q781885,https://www.wikidata.org/wiki/Q1012069,56.2,-3.42
+Falkland,Cupar,I,https://www.wikidata.org/wiki/Q1012069,https://www.wikidata.org/wiki/Q1012047,56.25,-3.2
+Cupar,St Andrews,I,https://www.wikidata.org/wiki/Q1012047,https://www.wikidata.org/wiki/Q207736,56.3194,-3.01155
+St Andrews,St Andrews,I,https://www.wikidata.org/wiki/Q207736,NA,56.33888889,-2.798888889
+Dunfermline,Culross,J,https://www.wikidata.org/wiki/Q211950,https://www.wikidata.org/wiki/Q2424554,56.07138889,-3.461666667
+Culross,Kincardine,J,https://www.wikidata.org/wiki/Q2424554,https://www.wikidata.org/wiki/Q1011221,56.0554,-3.6293
+Kincardine,Stirling,J,https://www.wikidata.org/wiki/Q1011221,https://www.wikidata.org/wiki/Q182923,56.069,-3.719
+Stirling,Stirling,J,https://www.wikidata.org/wiki/Q182923,NA,56.11944444,-3.935833333
+Perth,Dunkeld,K,https://www.wikidata.org/wiki/Q203000,https://www.wikidata.org/wiki/Q1265921,56.39527778,-3.431666667
+Dunkeld,Coupar Angus,K,https://www.wikidata.org/wiki/Q1265921,https://www.wikidata.org/wiki/Q1011681,56.55833333,-3.583333333
+Coupar Angus,Coupar Angus,K,https://www.wikidata.org/wiki/Q1011681,NA,56.546425,-3.266958
+Dundee,Forfar,L,https://www.wikidata.org/wiki/Q123709,https://www.wikidata.org/wiki/Q996509,56.464,-2.97
+Forfar,Kirriemuir,L,https://www.wikidata.org/wiki/Q996509,https://www.wikidata.org/wiki/Q1011603,56.64305556,-2.89
+Kirriemuir,Kirriemuir,L,https://www.wikidata.org/wiki/Q1011603,NA,56.66921111,-3.0051
+Montrose,Brechin,M,https://www.wikidata.org/wiki/Q420303,https://www.wikidata.org/wiki/Q45848,56.70805556,-2.605833333
+Brechin,Brechin,M,https://www.wikidata.org/wiki/Q45848,NA,56.73,-2.655277778
+Edinburgh,Haddington,N,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q2281658,55.95,-3.198888889
+Haddington,Dunbar,N,https://www.wikidata.org/wiki/Q2281658,https://www.wikidata.org/wiki/Q1002133,55.958,-2.774
+Dunbar,Berwick-upon-Tweed,N,https://www.wikidata.org/wiki/Q1002133,https://www.wikidata.org/wiki/Q504678,55.99833333,-2.522777778
+Berwick-upon-Tweed,Duns,N,https://www.wikidata.org/wiki/Q504678,https://www.wikidata.org/wiki/Q425611,55.76666667,-2
+Duns,Greenlaw,N,https://www.wikidata.org/wiki/Q425611,https://www.wikidata.org/wiki/Q1011691,55.7784,-2.3426
+Greenlaw,Coldstream,N,https://www.wikidata.org/wiki/Q1011691,https://www.wikidata.org/wiki/Q1018874,55.7,-2.466666667
+Coldstream,Kelso,N,https://www.wikidata.org/wiki/Q1018874,https://www.wikidata.org/wiki/Q654945,55.65361111,-2.263888889
+Kelso,Melrose,N,https://www.wikidata.org/wiki/Q654945,https://www.wikidata.org/wiki/Q632993,55.58333333,-2.416666667
+Melrose,Jedburgh,N,https://www.wikidata.org/wiki/Q632993,https://www.wikidata.org/wiki/Q1012401,55.58333333,-2.716666667
+Jedburgh,Jedburgh,N,https://www.wikidata.org/wiki/Q1012401,NA,55.63333333,-2.533333333
+Edinburgh,Lauder,O,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q1017204,55.95,-3.198888889
+Lauder,Melrose,O,https://www.wikidata.org/wiki/Q1017204,https://www.wikidata.org/wiki/Q632993,55.7194,-2.74855
+Melrose,Selkirk,O,https://www.wikidata.org/wiki/Q632993,https://www.wikidata.org/wiki/Q772507,55.58333333,-2.716666667
+Selkirk,Selkirk,O,https://www.wikidata.org/wiki/Q772507,NA,55.53333333,-2.833333333
+Edinburgh,Selkirk,P,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q772507,55.95,-3.198888889
+Selkirk,Hawick,P,https://www.wikidata.org/wiki/Q772507,https://www.wikidata.org/wiki/Q407183,55.53333333,-2.833333333
+Hawick,Jedburgh,P,https://www.wikidata.org/wiki/Q407183,https://www.wikidata.org/wiki/Q1012401,55.42472222,-2.784444444
+Jedburgh,Jedburgh,P,https://www.wikidata.org/wiki/Q1012401,NA,55.63333333,-2.533333333
+Edinburgh,Mid Calder,Q,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q4115,55.95,-3.198888889
+Mid Calder,Whitburn,Q,https://www.wikidata.org/wiki/Q4115,https://www.wikidata.org/wiki/Q840684,55.8918,-3.481
+Whitburn,Glasgow,Q,https://www.wikidata.org/wiki/Q840684,https://www.wikidata.org/wiki/Q4093,55.8621,-3.68719
+Glasgow,Glasgow,Q,https://www.wikidata.org/wiki/Q4093,NA,55.87,-4.27
+Edinburgh,Peebles,R,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q1011507,55.95,-3.198888889
+Peebles,Peebles,R,https://www.wikidata.org/wiki/Q1011507,NA,55.65,-3.18
+Edinburgh,Moffat,S,https://www.wikidata.org/wiki/Q23436,https://www.wikidata.org/wiki/Q646784,55.95,-3.198888889
+Moffat,Lockerbie,S,https://www.wikidata.org/wiki/Q646784,https://www.wikidata.org/wiki/Q216045,55.332,-3.442
+Lockerbie,Ecclefechan,S,https://www.wikidata.org/wiki/Q216045,https://www.wikidata.org/wiki/Q1015818,55.12111111,-3.355277778
+Ecclefechan,Carlisle,S,https://www.wikidata.org/wiki/Q1015818,https://www.wikidata.org/wiki/Q192896,55.0616,-3.26424
+Carlisle,Annan,S,https://www.wikidata.org/wiki/Q192896,https://www.wikidata.org/wiki/Q564495,54.88333333,-2.95
+Annan,Dumfries,S,https://www.wikidata.org/wiki/Q564495,https://www.wikidata.org/wiki/Q652035,54.983,-3.266
+Dumfries,Castle Douglas,S,https://www.wikidata.org/wiki/Q652035,https://www.wikidata.org/wiki/Q1012300,54.88333333,-2.95
+Castle Douglas,Kirkcudbright,S,https://www.wikidata.org/wiki/Q1012300,https://www.wikidata.org/wiki/Q1011387,54.941,-3.929
+Kirkcudbright,Gatehouse of Fleet,S,https://www.wikidata.org/wiki/Q1011387,https://www.wikidata.org/wiki/Q996643,54.81666667,-4.033333333
+Gatehouse of Fleet,New Galloway,S,https://www.wikidata.org/wiki/Q996643,https://www.wikidata.org/wiki/Q3778560,54.81,-4.16
+New Galloway,Newton Stewart,S,https://www.wikidata.org/wiki/Q3778560,https://www.wikidata.org/wiki/Q1016985,55.073,-4.139
+Newton Stewart,Glenluce,S,https://www.wikidata.org/wiki/Q1016985,https://www.wikidata.org/wiki/Q1017187,54.958,-4.492
+Glenluce,Portpatrick,S,https://www.wikidata.org/wiki/Q1017187,https://www.wikidata.org/wiki/Q1011611,54.878,-4.811
+Portpatrick,Portpatrick,S,https://www.wikidata.org/wiki/Q1011611,NA,54.845,-5.12429
+Glasgow,Hamilton,T,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q4131,55.87,-4.27
+Hamilton,Douglas,T,https://www.wikidata.org/wiki/Q4131,https://www.wikidata.org/wiki/Q5301155,55.78,-4.068055556
+Douglas,Muirkirk,T,https://www.wikidata.org/wiki/Q5301155,https://www.wikidata.org/wiki/Q1008937,55.55,-3.85
+Muirkirk,Moffat,T,https://www.wikidata.org/wiki/Q1008937,https://www.wikidata.org/wiki/Q646784,55.5167,-4.05
+Moffat,Moffat,T,https://www.wikidata.org/wiki/Q646784,NA,55.332,-3.442
+Aberdeen,Ellon,U,https://www.wikidata.org/wiki/Q36405,https://www.wikidata.org/wiki/Q1026799,57.15,-2.1
+Ellon,Peterhead,U,https://www.wikidata.org/wiki/Q1026799,https://www.wikidata.org/wiki/Q1016944,57.366,-2.086
+Peterhead,Fraserburgh,U,https://www.wikidata.org/wiki/Q1016944,https://www.wikidata.org/wiki/Q138873,57.5091,-1.7832
+Fraserburgh,Strichen,U,https://www.wikidata.org/wiki/Q138873,https://www.wikidata.org/wiki/Q1009989,57.693,-2.005
+Strichen,Ellon,U,https://www.wikidata.org/wiki/Q1009989,https://www.wikidata.org/wiki/Q1026799,57.5865,-2.0904
+Ellon,Ellon,U,https://www.wikidata.org/wiki/Q1026799,NA,57.366,-2.086
+Aberdeen,Oldmeldrum,V,https://www.wikidata.org/wiki/Q36405,https://www.wikidata.org/wiki/Q1009340,57.15,-2.1
+Oldmeldrum,Fyvie,V,https://www.wikidata.org/wiki/Q1009340,https://www.wikidata.org/wiki/Q1011189,57.335,-2.32
+Fyvie,Turriff,V,https://www.wikidata.org/wiki/Q1011189,https://www.wikidata.org/wiki/Q1016738,57.4272,-2.39798
+Turriff,Banff,V,https://www.wikidata.org/wiki/Q1016738,https://www.wikidata.org/wiki/Q54809,57.539,-2.46114
+Banff,Fochabers,V,https://www.wikidata.org/wiki/Q54809,https://www.wikidata.org/wiki/Q1011728,57.667,-2.524
+Fochabers,Fochabers,V,https://www.wikidata.org/wiki/Q1011728,NA,57.6122,-3.09711
+Aberdeen,Kintore,W,https://www.wikidata.org/wiki/Q36405,https://www.wikidata.org/wiki/Q407193,57.15,-2.1
+Kintore,Old Rayne,W,https://www.wikidata.org/wiki/Q407193,https://www.wikidata.org/wiki/Q7084820,57.236,-2.34621
+Old Rayne,Huntly,W,https://www.wikidata.org/wiki/Q7084820,https://www.wikidata.org/wiki/Q1016931,57.34,-2.54
+Huntly,Keith,W,https://www.wikidata.org/wiki/Q1016931,https://www.wikidata.org/wiki/Q1235112,57.45,-2.78333
+Keith,Fochabers,W,https://www.wikidata.org/wiki/Q1235112,https://www.wikidata.org/wiki/Q1011728,57.5428,-2.9555
+Fochabers,Elgin,W,https://www.wikidata.org/wiki/Q1011728,https://www.wikidata.org/wiki/Q841074,57.6122,-3.09711
+Elgin,Forres,W,https://www.wikidata.org/wiki/Q841074,https://www.wikidata.org/wiki/Q1010531,57.64638889,-3.315277778
+Forres,Grantown-on-Spey,W,https://www.wikidata.org/wiki/Q1010531,https://www.wikidata.org/wiki/Q1010396,57.6,-3.61673
+Grantown-on-Spey,Nairn,W,https://www.wikidata.org/wiki/Q1010396,https://www.wikidata.org/wiki/Q980084,57.3293,-3.60877
+Nairn,Fort George,W,https://www.wikidata.org/wiki/Q980084,https://www.wikidata.org/wiki/Q1426707,57.58333333,-3.866666667
+Fort George,Inverness,W,https://www.wikidata.org/wiki/Q1426707,https://www.wikidata.org/wiki/Q160493,57.58384444,-4.070177778
+Inverness,Inverness,W,https://www.wikidata.org/wiki/Q160493,NA,57.48388889,-4.225833333
+Inverness,Dingwall,X,https://www.wikidata.org/wiki/Q160493,https://www.wikidata.org/wiki/Q1011416,57.48388889,-4.225833333
+Dingwall,Invergordon,X,https://www.wikidata.org/wiki/Q1011416,https://www.wikidata.org/wiki/Q1011677,57.45,-4.4
+Invergordon,Tain,X,https://www.wikidata.org/wiki/Q1011677,https://www.wikidata.org/wiki/Q1020220,57.68805556,-4.156944444
+Tain,Dornoch,X,https://www.wikidata.org/wiki/Q1020220,https://www.wikidata.org/wiki/Q1016920,57.8118,-4.0567
+Dornoch,Dunbeath,X,https://www.wikidata.org/wiki/Q1016920,https://www.wikidata.org/wiki/Q2464541,57.88,-4.03
+Dunbeath,Wick,X,https://www.wikidata.org/wiki/Q2464541,https://www.wikidata.org/wiki/Q1012502,58.25,-3.42
+Wick,Stromness,X,https://www.wikidata.org/wiki/Q1012502,https://www.wikidata.org/wiki/Q839556,58.454,-3.089
+Stromness,Kirkwall,X,https://www.wikidata.org/wiki/Q839556,https://www.wikidata.org/wiki/Q208329,58.96,-3.3
+Kirkwall,Lerwick,X,https://www.wikidata.org/wiki/Q208329,https://www.wikidata.org/wiki/Q213485,58.98111111,-2.96
+Lerwick,Lerwick,X,https://www.wikidata.org/wiki/Q213485,NA,60.15416667,-1.148611111
+Thurso,"Tongue, Highland",Y,https://www.wikidata.org/wiki/Q526576,https://www.wikidata.org/wiki/Q2679573,58.59611111,-3.521111111
+"Tongue, Highland",Halkirk,Y,https://www.wikidata.org/wiki/Q2679573,https://www.wikidata.org/wiki/Q1011584,58.4784,-4.41799
+Halkirk,Halkirk,Y,https://www.wikidata.org/wiki/Q1011584,NA,58.51,-3.49
+Inverness,Beauly,Z,https://www.wikidata.org/wiki/Q160493,https://www.wikidata.org/wiki/Q523335,57.48388889,-4.225833333
+Beauly,Lochcarron,Z,https://www.wikidata.org/wiki/Q523335,https://www.wikidata.org/wiki/Q3045684,57.4847,-4.46204
+Lochcarron,Dunvegan,Z,https://www.wikidata.org/wiki/Q3045684,https://www.wikidata.org/wiki/Q747568,57.4,-5.5
+Dunvegan,Dunvegan,Z,https://www.wikidata.org/wiki/Q747568,NA,57.44,-6.58
+Dingwall,Stornoway,AA,https://www.wikidata.org/wiki/Q1011416,https://www.wikidata.org/wiki/Q165845,57.45,-4.4
+Stornoway,Stornoway,AA,https://www.wikidata.org/wiki/Q165845,NA,58.209,-6.387
+Glasgow,Inveraray Castle,BB,https://www.wikidata.org/wiki/Q4093,https://www.wikidata.org/wiki/Q1671720,55.87,-4.27
+Inveraray Castle,Bonawe,BB,https://www.wikidata.org/wiki/Q1671720,https://www.wikidata.org/wiki/Q3778262,56.2375,-5.073333333
+Bonawe,Oban,BB,https://www.wikidata.org/wiki/Q3778262,https://www.wikidata.org/wiki/Q935702,56.4514,-5.23472
+Oban,Aros Castle,BB,https://www.wikidata.org/wiki/Q935702,https://www.wikidata.org/wiki/Q2805188,56.40972222,-5.4725
+Aros Castle,Tobermory,BB,https://www.wikidata.org/wiki/Q2805188,https://www.wikidata.org/wiki/Q416901,56.5321,-5.9649
+Tobermory,Tobermory,BB,https://www.wikidata.org/wiki/Q416901,NA,56.62,-6.07
+Bonawe,Appin,CC,https://www.wikidata.org/wiki/Q3778262,https://www.wikidata.org/wiki/Q1404409,56.4514,-5.23472
+Appin,Isle of Mull,CC,https://www.wikidata.org/wiki/Q1404409,https://www.wikidata.org/wiki/Q111444,56.5622,-5.35889
+Isle of Mull,Fort William,CC,https://www.wikidata.org/wiki/Q111444,https://www.wikidata.org/wiki/Q848909,56.45,-6
+Fort William,Inverness,CC,https://www.wikidata.org/wiki/Q848909,https://www.wikidata.org/wiki/Q160493,56.81694444,-5.109722222
+Inverness,Inverness,CC,https://www.wikidata.org/wiki/Q160493,NA,57.48388889,-4.225833333
+Isle of Mull,Strontian,DD,https://www.wikidata.org/wiki/Q111444,https://www.wikidata.org/wiki/Q503042,56.45,-6
+Strontian,Strontian,DD,https://www.wikidata.org/wiki/Q503042,NA,56.683,-5.567
